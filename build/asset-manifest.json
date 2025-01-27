@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/ChallengeDIOClone/static/js/main.5c4e24c5.js",
+    "static/media/banner.png": "/ChallengeDIOClone/static/media/banner.9ab4ead1c68ede88f1ce.png",
+    "index.html": "/ChallengeDIOClone/index.html",
+    "main.5c4e24c5.js.map": "/ChallengeDIOClone/static/js/main.5c4e24c5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5c4e24c5.js"
+  ]
+}

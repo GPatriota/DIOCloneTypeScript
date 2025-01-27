@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "c74d"
+    },
+    {
+      "id": "2e7b",
+      "Nome": "Gustavo Patriota",
+      "email": "gpspatriota@gmail.com",
+      "senha": "Gugu2004!"
+    },
+    {
+      "id": "ef74",
+      "Nome": "Gustavo Patriota123",
+      "email": "gpspatriota@gmail.com",
+      "senha": "123456"
+    },
+    {
+      "id": "f278",
+      "Nome": "Gustavo Patriota",
+      "email": "gpspatriota@gmail.com",
+      "senha": "1234"
+    },
+    {
+      "id": "bd7c",
+      "Nome": "Gustavo Patriota12345",
+      "email": "gpspatriota@gmail.com",
+      "senha": "12312521523"
+    }
+  ]
+}
